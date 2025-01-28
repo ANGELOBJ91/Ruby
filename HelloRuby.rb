@@ -5,4 +5,4 @@ puts "Qual é a sua idade?"
 idade = gets.chomp. to_i
 
 puts "hello #{nome}"
-puts "#{nome} tem  #{idade} anos"
+puts "#{nome} tem  #{idade} anos"q
